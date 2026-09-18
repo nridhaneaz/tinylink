@@ -5,7 +5,7 @@ A simple and secure RESTful URL Shortener API built with **Laravel**. The API al
 ## Live API
 
 **Base URL:**
-`https://tinylink-production-feda.up.railway.app`
+`https://tinylink-production-feda.up.railway.app/`
 
 **Health Check:**
 `https://tinylink-production-feda.up.railway.app/`
